@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "watch") (type "KiCad") (uri "${KIPRJMOD}/libs/watch.kicad_sym") (options "") (descr ""))
+	(lib (name "SportsWatch") (type "KiCad") (uri "${KIPRJMOD}/libs/SportsWatch.kicad_sym") (options "") (descr ""))
+	(lib (name "jstronic") (type "KiCad") (uri "${KIPRJMOD}/jstronic_JSS-3941A/jstronic/jstronic.kicad_sym") (options "") (descr ""))
+)
