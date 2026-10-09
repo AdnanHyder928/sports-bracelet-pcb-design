@@ -2213,7 +2213,7 @@
 		)
 		(uuid "ff8fa614-3959-4b47-ad64-1506a084b1fa")
 	)
-	(label "PA6"
+	(label "PA7"
 		(at 115.57 83.82 0)
 		(effects
 			(font
@@ -2405,8 +2405,8 @@
 		)
 		(uuid "a95d6078-786e-4470-aa68-4eed8e73e091")
 	)
-	(label "PA6"
-		(at 246.38 50.8 0)
+	(label "PA7"
+		(at 246.38 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2415,7 +2415,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "c4832ebc-0a1d-41e8-a898-216d2743c442")
+		(uuid "bd06b6bb-82c0-4398-8933-b5b188386326")
 	)
 	(label "SEG_B"
 		(at 22.86 43.18 0)
